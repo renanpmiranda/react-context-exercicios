@@ -8,4 +8,8 @@ Apenas um card pode ser selecionado por vez e seu visual deve sofrer alguma alte
 - Dica 4: referencie o código feito em aula, pois ele tem muitas semelhanças
 <br>
 <br>
-[Exemplo de alteração visual](https://user-images.githubusercontent.com/29845719/204090142-098c6ff9-3835-437f-a212-5946737c14be.png)
+
+### Exemplo de alteração visual
+![image](https://user-images.githubusercontent.com/29845719/204090253-0c268736-07ed-41ba-a837-c118a202e674.png)
+
+
