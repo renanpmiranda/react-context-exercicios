@@ -9,7 +9,7 @@ Crie um aplicativo React do zero e inicie pelo exercício 1.
 ### O que você precisa saber e praticar desta aula?
 
 - [ ] item 1 - React e axios
-- [ ] item 2 - Styled-components e/ou ChakraUI
+- [ ] item 2 - styled-components e/ou ChakraUI
 - [ ] item 3 - React Context
 
 Cada pasta deste repo possui um README.md com o enunciado do exercício.
